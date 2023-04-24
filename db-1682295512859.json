@@ -1,0 +1,10 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "juan",
+      "edad": "22",
+      "pais": "colombia"
+    }
+  ]
+}
